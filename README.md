@@ -35,5 +35,5 @@ Welcome to my GitHub profile! I specialize in **data analysis**, **ETL processes
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your.email@domain.com]
+- LinkedIn: https://www.linkedin.com/in/bhavana--d/
+- Email: bhavana.d2911@gmail.com
