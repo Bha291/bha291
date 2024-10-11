@@ -1,8 +1,8 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Bhavana D
 
 📊 **Data Analyst** | 🚚 **Mobility Analyst** | 🔍 **Aspiring ML & Data Science Enthusiast**
 
-Welcome to my GitHub profile! I currently work in a **non-IT role** where I focus on **Google mobility analysis**, determining whether specific routes are viable for trucks and other vehicles. My passion lies in **data analytics**, **machine learning (ML)**, and **data science**, and I'm actively learning and applying these concepts to real-world scenarios.
+Welcome to my GitHub profile! I currently working on **Google mobility analysis**, determining whether specific routes are viable for trucks and other vehicles. My passion lies in **data analytics**, **machine learning (ML)**, and **data science**, and I'm actively learning and applying these concepts to real-world scenarios.
 
 ---
 
@@ -36,5 +36,5 @@ Welcome to my GitHub profile! I currently work in a **non-IT role** where I focu
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your.email@domain.com]
+- LinkedIn: https://www.linkedin.com/in/bhavana--d/
+- Email: bhavana.d2911@gmail.com
